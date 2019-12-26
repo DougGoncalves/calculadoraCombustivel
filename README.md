@@ -1,6 +1,6 @@
-# aog
+# Calculadora de Combustível
 
-A new Flutter project.
+App em Flutter para o cálculo de preferência de combustível para abastecimento
 
 ## Getting Started
 
