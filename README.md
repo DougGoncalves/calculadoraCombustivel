@@ -4,7 +4,7 @@ App em Flutter para o cálculo de preferência de combustível para abasteciment
 
 Você pode ter um preview da tela do app abaixo:
 
-![tela_app](screenshots/tela.jpg)
+![tela_app](screenshots/tela.png)
                      
 
 
